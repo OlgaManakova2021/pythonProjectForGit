@@ -33,8 +33,6 @@ else:
 print("Количество нечетных чисел = ", count_odd)
 print("Количество четных чисел = ", count_even)
 
-print("Количество четных чисел = ", count_even)
-
 
 
 
