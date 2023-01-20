@@ -8,3 +8,4 @@ def print_char():
         d += 1
 
 print_char()
+
