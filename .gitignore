@@ -1,0 +1,5 @@
+.venv
+.DStore
+*.log
+.idea
+
